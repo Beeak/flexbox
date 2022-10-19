@@ -1,0 +1,70 @@
+* {
+    padding:0%;
+    margin: 14px;
+}
+
+.esimene {
+    display: flex;
+    width: 1700px;
+    height: 200px;
+    border: 5px solid black;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+.box1 {
+    height: 170px;
+    width: 170px;
+    border: 2px solid black;
+    background-color: aquamarine;
+}
+
+.teine {
+    display: flex;
+    width: 1700px;
+    height: 200px;
+    border: 5px solid black;
+    justify-content: flex-end;
+    padding: 1rem;
+    gap: 10px;
+}
+
+.box2 {
+    height: 170px;
+    width: 170px;
+    border: 2px solid black;
+    background-color: yellow;
+}
+
+.kolmas {
+    display: flex;
+    width: 1700px;
+    height: 200px;
+    border: 5px solid black;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.box3 {
+    height: 170px;
+    width: 170px;
+    border: 2px solid black;
+    background-color: lightskyblue;
+}
+
+.neljas {
+    display: flex;
+    width: 1700px;
+    height: 200px;
+    border: 5px solid black;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.box4 {
+    height: 70%;
+    width: 40%;
+    border: 2px solid black;
+    background-color: red;
+    margin: 1.5rem;
+}
